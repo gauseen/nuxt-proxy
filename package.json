@@ -17,7 +17,8 @@
     "nuxt",
     "proxy",
     "cors",
-    "http跨域"
+    "http",
+    "请求跨域"
   ],
   "author": "gauseen",
   "license": "ISC",
