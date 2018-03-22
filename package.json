@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/gauseen/nuxt-proxy/issues"
   },
-  "homepage": "https://github.com/gauseen/nuxt-proxy#readme"
+  "homepage": "https://github.com/gauseen/nuxt-proxy#readme",
+  "devDependencies": {
+    "http-proxy-middleware": "^0.18.0"
+  }
 }
