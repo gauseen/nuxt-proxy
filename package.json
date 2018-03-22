@@ -26,7 +26,7 @@
     "url": "https://github.com/gauseen/nuxt-proxy/issues"
   },
   "homepage": "https://github.com/gauseen/nuxt-proxy#readme",
-  "devDependencies": {
+  "dependencies": {
     "http-proxy-middleware": "^0.18.0"
   }
 }
