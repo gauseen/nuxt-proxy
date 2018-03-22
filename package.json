@@ -1,6 +1,6 @@
 {
   "name": "@gauseen/nuxt-proxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nuxt proxy module",
   "main": "./lib/module.js",
   "directories": {
@@ -18,7 +18,8 @@
     "proxy",
     "cors",
     "http",
-    "请求跨域"
+    "请求跨域",
+    "Access-Control-Allow-Origin"
   ],
   "author": "gauseen",
   "license": "ISC",
